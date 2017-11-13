@@ -1,0 +1,28 @@
+body { font-family: Helvetica;
+text-align: center;}
+
+h1 {font-size:70px;
+font-weight: bold;
+color: white;}
+
+.top {background-image: url("./Building.png"); }
+
+.top a {font-size: 18px;
+color: white;}
+
+.newyork {font-size: 23px;
+font-weight: bold;
+color: white;
+background-image: url("./Building.png");}
+
+.bottom p {font-size: 11px;
+color: white;
+text-align: left;}
+
+.bottom a {font-size: 18;
+color: white;
+text-align: left;}
+
+.bottom {background-color: dimgray;}
+
+p {font-size: 14px;}
